@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Multiplayer Setting.unity
     guid: 4b90660656b37554abd9398d72023ba2
+  - enabled: 1
+    path: Assets/Scenes/RanchTest.unity
+    guid: 8c5ea5203857e3348a896f6612dfbeb2
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 70de7f4ab79c7ca4e882a1498b2efe7d, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1b152f93566660740a01305379728b11, type: 2}
