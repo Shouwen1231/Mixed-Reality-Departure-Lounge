@@ -56,7 +56,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: e9b4b64f-1c7e-4dff-8f3c-ce409bdc3951
-  instanceId: 396bd58c-08f6-4b28-9b92-3a8062814986
+  instanceId: c70d31c8-e0c4-491c-9f79-cb1dcd02e765
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: d5c83ff6-47e4-4c98-acdd-041d4686912f
@@ -161,10 +161,10 @@ CapsuleCollider:
   m_ProvidesContacts: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.06
+  m_Radius: 0.12893088
   m_Height: 0.023
   m_Direction: 2
-  m_Center: {x: -0.004874937, y: -0.00029208505, z: -0.0105308555}
+  m_Center: {x: -0.004874937, y: -0.00029208502, z: -0.0105308555}
 --- !u!114 &8568573786390264930
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -190,7 +190,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GlobalObjectIdHash: 454179580
+  GlobalObjectIdHash: 4041974216
   InScenePlacedSourceGlobalObjectIdHash: 3379807024
   AlwaysReplicateAsRoot: 0
   SynchronizeTransform: 1
@@ -301,7 +301,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: 4e14e0ba-51f2-4a5c-a822-e304bf36d48c
-  instanceId: f30969c5-4988-4895-bc79-941e837f379e
+  instanceId: c64d10ad-106a-4586-81b4-6689571b125e
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: fb25cac7-8f37-455d-ac01-3fa41a1be37d
@@ -398,7 +398,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: eebbdd0f-2ca3-4b78-be42-3c18c2526ee2
+  instanceId: f21910c2-f01e-4227-ba8c-1a991efe4b99
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -444,7 +444,7 @@ MonoBehaviour:
   _maxSelectingInteractors: -1
   _data: {fileID: 0}
   _pointableElement: {fileID: 2309236235373838548}
-  _rigidbody: {fileID: 0}
+  _rigidbody: {fileID: 4133013044872970111}
   _physicsGrabbable: {fileID: 0}
   _resetGrabOnGrabsUpdated: 1
   _scoringModifier:
